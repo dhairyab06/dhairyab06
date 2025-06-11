@@ -8,9 +8,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dhairyab06&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyab06&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhairyab06&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dborsiwala/) 
 
