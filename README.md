@@ -16,7 +16,8 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
 
 ### 🔐 Networking & Security
-![Tailscale](https://img.shields.io/badge/tailscale-%23ff5e00.svg?style=for-the-badge&logo=tailscale&logoColor=white) 
-![WireGuard](https://img.shields.io/badge/wireguard-%2388171a.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![WireGuard](https://img.shields.io/badge/wireguard-%2388171a.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
+![Tailscale](https://img.shields.io/badge/tailscale-%23ff5e00.svg?style=for-the-badge&logo=tailscale&logoColor=white) 
+
 
