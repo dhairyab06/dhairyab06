@@ -11,7 +11,8 @@
 
 ### 🖥 Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
 
@@ -19,5 +20,6 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/wireguard-%2388171a.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 ![Tailscale](https://img.shields.io/badge/tailscale-%23ff5e00.svg?style=for-the-badge&logo=tailscale&logoColor=white) 
-
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white)
 
